@@ -1,0 +1,3 @@
+rootProject.name = 'TravonectDemo'
+
+include ':app'
